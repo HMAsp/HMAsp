@@ -13,7 +13,7 @@ My is name **Hans** aka **Spookyrumble** and I am a 40 year old student of the F
 These are the projects I have been working on during my first year as a front-end student.
 They are all designed, developed and programmed by myself.
 
-## Built with
+## Skills
 
 ![tool logos](/images/Group10_logoBigHor.png)
 
