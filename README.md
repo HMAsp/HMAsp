@@ -6,7 +6,7 @@
 
 My is name **Hans** aka **Spookyrumble** and I am a 40 year old student of the Front-End development craft. After 20+ years working a variety of jobs which includes everything from fishing boats to service coordinator I decided I wanted to pursue a long forgotten dream of development. Life and family kind of put everything in the back seat for a while but here I am and I couldn't be happier!
 
-[Portfolio Website](https://spookyrumble-portfolio.netlify.app)
+[Click to visit my portfolio Website](https://spookyrumble-portfolio.netlify.app)
 ---
 
 ## Description
