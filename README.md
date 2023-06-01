@@ -58,4 +58,4 @@ If you want to reach out to me please feel free to send me a message on either o
 
 [LinkedIn](https://www.linkedin.com/in/hma1982/)
 
-[Email](mailspooky@yahoo.com)
+Email - mailspooky@yahoo.com
