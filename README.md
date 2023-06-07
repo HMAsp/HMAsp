@@ -34,7 +34,7 @@ They are all designed, developed and programmed by myself.
   - [View Github repo](https://github.com/HMAsp/2022-12-16_semester_project1_HMAsp)
   - [Visit website on Netlify](https://2022aug-sp1-hma.netlify.app/)
 
-- **Javascript1: Beer Recipes** is our first experience with javascript and working with APIs. We were to chose a free API and create a list and a dynamic details page.
+- **Javascript1: Beer Recipes** is our first experience with javascript and working with APIs. We were to choose a free API and create a list and a dynamic details page.
 
   - [View Github repo](https://github.com/HMAsp/hma_js1_ca)
   - [Visit website on Netlify](https://soft-basbousa-03b99f.netlify.app/)
