@@ -53,8 +53,10 @@ As these are all school projects I would appreciate if you would open a pull req
 ## Contact
 
 If you want to get in contact with me you can use either of the following:
-* Email: mailspooky@yahoo.com
-* [Twitter](https://twitter.com/HansMarAnd)
-* [LinkedIn](https://www.linkedin.com/in/hma1982/)
 
-Or use the contact form on the portfolio page!
+- mailspooky@yahoo.com
+- [Twitter](https://twitter.com/HansMarAnd)
+- [LinkedIn](https://www.linkedin.com/in/hma1982/)
+- [Github](https://github.com/HMAsp)
+
+Or just use the contact form on the portfolio page!
