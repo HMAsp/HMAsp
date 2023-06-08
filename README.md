@@ -15,9 +15,7 @@ They are all designed, developed and programmed by myself.
 
 ## Skills
 
-![tool logos](/images/html.png)![tool logos](/images/css.png) ![tool logos](/images/js.png) ![tool logos](/images/figma.png)
-
-![tool logos](/images/vsc.png) ![tool logos](/images/wp.png) ![tool logos](/images/github.png)
+![tool logos](/images/html.png)![tool logos](/images/css.png) ![tool logos](/images/js.png) ![tool logos](/images/figma.png) ![tool logos](/images/vsc.png) ![tool logos](/images/wp.png) ![tool logos](/images/github.png)
 
 ---
 
