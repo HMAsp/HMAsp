@@ -23,7 +23,7 @@ They are all designed, developed and programmed by myself.
 
 ## School projects
 
-**All projects are stored on Github and Deployed with Netlify. It is as simple as clicking the link.**
+**All projects are stored on Github and Deployed with Netlify. It is as simple as clicking the link. I recommend browsing my repos because there are projects there that have not made it here yet.**
 
 - **The Cross-course Assignment: "Rainydays"** is the first design and development we did. It has followed us through the year and has been developed as we went through the course modules.
 
