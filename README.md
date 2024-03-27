@@ -2,11 +2,13 @@
 
 ![logo](images/Spookyrumble_text.png)
 
-**Welcome to my Github, step in to my newfound world of development.**
+**Welcome to my Github, step into my newfound world of development.**
 
-My is name **Hans** aka **Spookyrumble** and I am a 40 year old studying Front-End Development. After 20+ years working a variety of jobs which includes everything from fishing boats to service coordinator I decided I wanted to pursue a long forgotten dream of development. Life and family kind of put everything in the back seat for a while but here I am and I couldn't be happier!
+My is name, **Hans** aka **Spookyrumble** and I am a 40-year-old studying Front-End Development. After 20+ years working a variety of jobs which includes everything from fishing boats to service coordinator, I decided I wanted to pursue a long-forgotten dream of development. Life and family kind of put everything in the back seat for a while but here I am and I couldn't be happier!
 
-## [Click to visit my portfolio Website](https://spookyrumble-portfolio.netlify.app)
+**The portfolio is being remade. The following is my year one portfolio with year one projects:**
+
+[Click to visit portfolio](https://spookyrumble-portfolio.netlify.app)
 
 ## Description
 
@@ -57,5 +59,3 @@ If you want to get in contact with me you can use either of the following:
 - [Twitter](https://twitter.com/HansMarAnd)
 - [LinkedIn](https://www.linkedin.com/in/hma1982/)
 - [Github](https://github.com/HMAsp)
-
-Or just use the contact form on the portfolio page!
