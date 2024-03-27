@@ -8,16 +8,16 @@ My is name, **Hans** aka **Spookyrumble** and I am a 40-year-old studying Front-
 
 **The portfolio is being remade. The following is my year one portfolio with year one projects:**
 
-[Click to visit portfolio](https://spookyrumble-portfolio.netlify.app)
+[Click to visit the portfolio](https://spookyrumble-portfolio.netlify.app)
+
+## Skills
+
+![tool logos](/images/html.png)![tool logos](/images/css.png) ![tool logos](/images/js.png) ![tool logos](/images/figma.png) ![tool logos](/images/vsc.png) ![tool logos](/images/wp.png) ![tool logos](/images/github.png)
 
 ## Description
 
 These are the projects I have been working on during my first year as a front-end student.
 They are all designed, developed and programmed by myself.
-
-## Skills
-
-![tool logos](/images/html.png)![tool logos](/images/css.png) ![tool logos](/images/js.png) ![tool logos](/images/figma.png) ![tool logos](/images/vsc.png) ![tool logos](/images/wp.png) ![tool logos](/images/github.png)
 
 ---
 
@@ -25,31 +25,31 @@ They are all designed, developed and programmed by myself.
 
 **All projects are stored on Github and Deployed with Netlify. It is as simple as clicking the link.**
 
-- **The Cross-course Assignment: Rainydays** is the first design and development we did. It has followed us through the year and has been developed along as we went through the course modules.
+- **The Cross-course Assignment: "Rainydays"** is the first design and development we did. It has followed us through the year and has been developed as we went through the course modules.
 
-  - [View Github repo](https://github.com/HMAsp/HTML-CSS_CA_HMA_2022)
-  - [Visit website on Netlify](https://chic-lollipop-939ca8.netlify.app/)
+  - [View GitHub repo](https://github.com/HMAsp/HTML-CSS_CA_HMA_2022)
+  - [Visit the website on Netlify](https://chic-lollipop-939ca8.netlify.app/)
 
-- **The semester project: CSM** put together what we learned the first semester. The biggest difference with this project compared with the cross-course is that this was heavily text based while Rainydays is a ecommerce site.
+- **The semester project: CSM** put together what we learned the first semester. The biggest difference with this project compared with the cross-course is that this was heavily text-based while Rainydays is an e-commerce site.
 
-  - [View Github repo](https://github.com/HMAsp/2022-12-16_semester_project1_HMAsp)
-  - [Visit website on Netlify](https://2022aug-sp1-hma.netlify.app/)
+  - [View GitHub repo](https://github.com/HMAsp/2022-12-16_semester_project1_HMAsp)
+  - [Visit the website on Netlify](https://2022aug-sp1-hma.netlify.app/)
 
-- **Javascript1: Beer Recipes** is our first experience with javascript and working with APIs. We were to choose a free API and create a list and a dynamic details page.
+- **Javascript1: Beer Recipes** is our first experience with JavaScript and working with APIs. We were to choose a free API and create a list and a dynamic details page.
 
-  - [View Github repo](https://github.com/HMAsp/hma_js1_ca)
-  - [Visit website on Netlify](https://soft-basbousa-03b99f.netlify.app/)
+  - [View GitHub repo](https://github.com/HMAsp/hma_js1_ca)
+  - [Visit the website on Netlify](https://soft-basbousa-03b99f.netlify.app/)
 
-* **Project Exam: Inside the trip** concludes our first year of studies. It brings together everything we have learned and then some as it holds som details we never learned but I was able to figure out and make work. Like the custom comment section and how to POST contact forms.
+* **Project Exam: "Inside the trip"** concludes our first year of studies. It brings together everything we have learned and then some as it holds some details we never learned but I was able to figure out and make work. Like the custom comment section and how to POST contact forms.
 
-  - [View Github repo](https://github.com/Noroff-FEU-Assignments/project-exam-1-HMAsp)
-  - [Visit website on Netlify](https://friendly-moonbeam-149a6a.netlify.app/)
+  - [View GitHub repo](https://github.com/Noroff-FEU-Assignments/project-exam-1-HMAsp)
+  - [Visit the website on Netlify](https://friendly-moonbeam-149a6a.netlify.app/)
 
 ---
 
 ## Contributing
 
-As these are all school projects I would appreciate if you would open a pull request so the code can be reviewed if you want to play around with it.
+As these are all school projects I would appreciate it if you would open a pull request so the code can be reviewed if you want to play around with it.
 
 ## Contact
 
