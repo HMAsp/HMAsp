@@ -4,9 +4,13 @@
 
 **Welcome to my Github, step into my newfound world of development.**
 
-My is name, **Hans** aka **Spookyrumble** and I am a 40-year-old studying Front-End Development. After 20+ years working a variety of jobs which includes everything from fishing boats to service coordinator, I decided I wanted to pursue a long-forgotten dream of development. Life and family kind of put everything in the back seat for a while but here I am and I couldn't be happier!
+My is name, **Hans** aka **Spookyrumble** and I am a 41-year-old studying Front-End Development. After 20+ years working a variety of jobs which includes everything from fishing boats to service coordinator, I decided I wanted to pursue a long-forgotten dream of development. Life and family kind of put everything in the back seat for a while but here I am and I couldn't be happier!
 
 **The portfolio is being remade. The following is my year one portfolio with year one projects:**
+
+New projects includes a Pong like game I made using only Flutter. A Discord bot i made just to see if I could do it. It was made to simplify the job searching progress by getting the new listings from a application website and posting them in my Discord server. 
+New School projects include JS frameworks, Vite, Tailwind. 
+I will update all this when I finish my exams, but for now please feel free to look through my reposatories.
 
 [Click to visit the portfolio](https://spookyrumble-portfolio.netlify.app)
 
