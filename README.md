@@ -1,3 +1,9 @@
+---
+title: My GitHub Profile
+description: A short presentation of my work.
+Author: HMA
+---
+
 # Welcome to My GitHub
 
 ![Spookyrumble Text Logo](images/Spookyrumble_text.png)
@@ -18,8 +24,12 @@ Hello! My name is **Hans**, also known as **Spookyrumble**. At 41, I've embarked
 [![Bootstrap](/images/icons8-bootstrap-logo.svg) **Auction app**](https://github.com/Spookyrumble/Auction): An Auction site built using Bootstrap and SASS. This project also has Jest Unit testing and E2E testing.
 [Live Demo](https://areactecom.netlify.app/).
 
+_NB! Requires a login. Use email: invitedguest@noroff.no, Password: auctionhouse_
+
 [![Bootstrap](/images/icons8-bootstrap-logo.svg) **Social Media app**](https://github.com/Spookyrumble/css-frameworks-ca): A Social Media site built using Bootstrap and SASS.
 [Live Demo](https://css-framework-js2.netlify.app/).
+
+_NB! Requires a login. Use email: invitedguest@noroff.no, Password: socialmedia_
 
 🌐 **Latest School Projects**: Currently exploring React, Vite, and Tailwind CSS. Stay tuned for updates post-exams!
 
