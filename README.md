@@ -1,65 +1,74 @@
-# About me
+# Welcome to My GitHub
 
-![logo](images/Spookyrumble_text.png)
+![Spookyrumble Text Logo](images/Spookyrumble_text.png)
 
-**Welcome to my Github, step into my newfound world of development.**
+### About Me
 
-My is name, **Hans** aka **Spookyrumble** and I am a 41-year-old studying Front-End Development. After 20+ years working a variety of jobs which includes everything from fishing boats to service coordinator, I decided I wanted to pursue a long-forgotten dream of development. Life and family kind of put everything in the back seat for a while but here I am and I couldn't be happier!
+Hello! My name is **Hans**, also known as **Spookyrumble**. At 41, I've embarked on a journey into Front-End Development, reigniting a long-dormant passion for coding. With a diverse background ranging from working on fishing boats to being a service coordinator, I'm now pursuing my dream in the tech world. I'm excited to share my projects and learnings with you!
 
-**The portfolio is being remade. The following is my year one portfolio with year one projects:**
+### What's New
 
-New projects includes a Pong like game I made using only Flutter. A Discord bot i made just to see if I could do it. It was made to simplify the job searching progress by getting the new listings from a application website and posting them in my Discord server. 
-New School projects include JS frameworks, Vite, Tailwind. 
-I will update all this when I finish my exams, but for now please feel free to look through my reposatories.
+[![Flutter](/images/icons8-flutter.svg) **Interactive Game**](https://github.com/Spookyrumble/Flutter-game): Check out a Pong-like game I built using Flutter.
 
-[Click to visit the portfolio](https://spookyrumble-portfolio.netlify.app)
+[![Discord.JS](/images/icons8-discord-js.svg) **Discord Bot**](https://github.com/Spookyrumble/AdLing): A fun project that pulls job listings from a website and posts them to a Discord server.
 
-## Skills
+[![React](/images/icons8-react-js.svg) **E-Com app**](https://github.com/Spookyrumble/React-eCom): My first introduction to building with React. Styled with Styled-Components.
+[Live Demo](https://areactecom.netlify.app/).
 
-![tool logos](/images/html.png)![tool logos](/images/css.png) ![tool logos](/images/js.png) ![tool logos](/images/figma.png) ![tool logos](/images/vsc.png) ![tool logos](/images/wp.png) ![tool logos](/images/github.png)
+[![Bootstrap](/images/icons8-bootstrap-logo.svg) **Auction app**](https://github.com/Spookyrumble/Auction): An Auction site built using Bootstrap and SASS. This project also has Jest Unit testing and E2E testing.
+[Live Demo](https://areactecom.netlify.app/).
 
-## Description
+[![Bootstrap](/images/icons8-bootstrap-logo.svg) **Social Media app**](https://github.com/Spookyrumble/css-frameworks-ca): A Social Media site built using Bootstrap and SASS.
+[Live Demo](https://css-framework-js2.netlify.app/).
 
-These are the projects I have been working on during my first year as a front-end student.
-They are all designed, developed and programmed by myself.
+🌐 **Latest School Projects**: Currently exploring React, Vite, and Tailwind CSS. Stay tuned for updates post-exams!
 
----
+### Skills & Tools
 
-## School projects
+![HTML](/images/icons8-html.svg)
+![CSS](/images/icons8-css.svg)
+![JavaScript](/images/icons8-javascript.svg)
+![Figma](/images/icons8-figma.svg)
+![VS Code](/images/icons8-visual-studio-code-2019.svg)
+![WordPress](/images/icons8-wordpress.svg)
+![GitHub](/images/icons8-github.svg)
+![Flutter](/images/icons8-flutter.svg)
+![Git](/images/icons8-git-logo.svg)
+![React](/images/icons8-react-js.svg)
+![Bootstrap](/images/icons8-bootstrap-logo.svg)
+![Tailwind CSS](/images/icons8-tailwind-css.svg)
+![Discord.JS](/images/icons8-discord-js.svg)
 
-**All projects are stored on Github and Deployed with Netlify. It is as simple as clicking the link. I recommend browsing my repos because there are projects there that have not made it here yet.**
+### Featured Projects
 
-- **The Cross-course Assignment: "Rainydays"** is the first design and development we did. It has followed us through the year and has been developed as we went through the course modules.
+I'm proud to showcase projects that I've designed, developed, and programmed during my first year as a student.
 
-  - [View GitHub repo](https://github.com/HMAsp/HTML-CSS_CA_HMA_2022)
-  - [Visit the website on Netlify](https://chic-lollipop-939ca8.netlify.app/)
+#### Year One School Projects
 
-- **The semester project: CSM** put together what we learned the first semester. The biggest difference with this project compared with the cross-course is that this was heavily text-based while Rainydays is an e-commerce site.
+A new portfolio is being made with the new projects.
+The following projects have had their backend discontinued, therefore the deployments have been removed.
 
-  - [View GitHub repo](https://github.com/HMAsp/2022-12-16_semester_project1_HMAsp)
-  - [Visit the website on Netlify](https://2022aug-sp1-hma.netlify.app/)
+🔗 [Explore My Year One Portfolio](https://spookyrumble-portfolio.netlify.app)
 
-- **Javascript1: Beer Recipes** is our first experience with JavaScript and working with APIs. We were to choose a free API and create a list and a dynamic details page.
+- **Rainydays**: A year-long evolving e-commerce project.  
+  [GitHub](https://github.com/HMAsp/HTML-CSS_CA_HMA_2022) | _Live Demo has been taken down._
+- **CSM**: Integrates lessons from our first semester into a text-heavy project.  
+  [GitHub](https://github.com/HMAsp/2022-12-16_semester_project1_HMAsp) | _Live Demo has been taken down._
+- **Beer Recipes**: Our first foray into JavaScript and APIs.  
+  [GitHub](https://github.com/HMAsp/hma_js1_ca) | _Live Demo has been taken down._
 
-  - [View GitHub repo](https://github.com/HMAsp/hma_js1_ca)
-  - [Visit the website on Netlify](https://soft-basbousa-03b99f.netlify.app/)
+- **Inside the Trip**: A capstone project that includes advanced features like custom comment sections and POST contact forms.  
+  [GitHub](https://github.com/Noroff-FEU-Assignments/project-exam-1-HMAsp) | _Live Demo has been taken down._
 
-* **Project Exam: "Inside the trip"** concludes our first year of studies. It brings together everything we have learned and then some as it holds some details we never learned but I was able to figure out and make work. Like the custom comment section and how to POST contact forms.
+### Contributing
 
-  - [View GitHub repo](https://github.com/Noroff-FEU-Assignments/project-exam-1-HMAsp)
-  - [Visit the website on Netlify](https://friendly-moonbeam-149a6a.netlify.app/)
+I welcome contributions to my school projects! If you'd like to collaborate or tweak the code, please submit a pull request for review.
 
----
+### Contact Me
 
-## Contributing
+Feel free to reach out via any of the platforms below:
 
-As these are all school projects I would appreciate it if you would open a pull request so the code can be reviewed if you want to play around with it.
-
-## Contact
-
-If you want to get in contact with me you can use either of the following:
-
-- mailspooky@yahoo.com
-- [Twitter](https://twitter.com/HansMarAnd)
-- [LinkedIn](https://www.linkedin.com/in/hma1982/)
-- [Github](https://github.com/HMAsp)
+- 📧 mailspooky@yahoo.com
+- 🐦 [Twitter](https://twitter.com/HansMarAnd)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hma1982/)
+- 🐙 [GitHub](https://github.com/HMAsp)
