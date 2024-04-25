@@ -32,6 +32,7 @@ Hello! My name is **Hans**, also known as **Spookyrumble**. At 41, I've embarked
 ![VS Code](/images/icons8-visual-studio-code-2019.svg)
 ![WordPress](/images/icons8-wordpress.svg)
 ![GitHub](/images/icons8-github.svg)
+![Vite](/images/icons8-vite-logo.svg)
 ![Flutter](/images/icons8-flutter.svg)
 ![Git](/images/icons8-git-logo.svg)
 ![React](/images/icons8-react-js.svg)
