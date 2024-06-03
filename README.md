@@ -22,7 +22,7 @@ Hello! My name is **Hans**, also known as **Spookyrumble**. At 41, I've embarked
 [Live Demo](https://areactecom.netlify.app/).
 
 [![Bootstrap](/images/icons8-bootstrap-logo.svg) **Auction app**](https://github.com/Spookyrumble/Auction): An Auction site built using Bootstrap and SASS. This project also has Jest Unit testing and E2E testing.
-[Live Demo](https://areactecom.netlify.app/).
+[Live Demo](https://hma-sp2-onlypineapples.netlify.app/).
 
 _NB! Requires a login. Use email: invitedguest@noroff.no, Password: auctionhouse_
 
