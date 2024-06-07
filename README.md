@@ -14,6 +14,9 @@ Hello! My name is **Hans**, also known as **Spookyrumble**. At 41, I've embarked
 
 ### What's New
 
+[![React](/images/icons8-react-js.svg) **Havens app**](https://github.com/Spookyrumble/Project-Exam-2): An accommodation website site built using React and Tailwind CSS. This was the final exam project.
+[Live Demo](https://project-havens.netlify.app).
+
 [![Flutter](/images/icons8-flutter.svg) **Interactive Game**](https://github.com/Spookyrumble/Flutter-game): Check out a Pong-like game I built using Flutter.
 
 [![Discord.JS](/images/icons8-discord-js.svg) **Discord Bot**](https://github.com/Spookyrumble/AdLing): A fun project that pulls job listings from a website and posts them to a Discord server.
