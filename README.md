@@ -12,10 +12,16 @@ Author: HMA
 
 Hello! My name is **Hans**, also known as **Spookyrumble**. At 41, I've embarked on a journey into Front-End Development, reigniting a long-dormant passion for coding. With a diverse background ranging from working on fishing boats to being a service coordinator, I'm now pursuing my dream in the tech world. I'm excited to share my projects and learnings with you!
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/50cc9a04-0195-4002-b31f-a368628fa2f1/deploy-status)](https://app.netlify.com/sites/hans-m-andreassen-portfolio/deploys)
+
+[Link to live portfolio](https://hans-m-andreassen-portfolio.netlify.app)
+
 ### What's New
 
 [![React](/images/icons8-react-js.svg) **Havens app**](https://github.com/Spookyrumble/Project-Exam-2): An accommodation website site built using React and Tailwind CSS. This was the final exam project.
 [Live Demo](https://project-havens.netlify.app).
+
+_NB! Havens requires login. Use email: invitedguest@stud.noroff.no, Password: 1Havenshavens_
 
 [![Flutter](/images/icons8-flutter.svg) **Interactive Game**](https://github.com/Spookyrumble/Flutter-game): Check out a Pong-like game I built using Flutter.
 
@@ -24,17 +30,17 @@ Hello! My name is **Hans**, also known as **Spookyrumble**. At 41, I've embarked
 [![React](/images/icons8-react-js.svg) **E-Com app**](https://github.com/Spookyrumble/React-eCom): My first introduction to building with React. Styled with Styled-Components.
 [Live Demo](https://areactecom.netlify.app/).
 
-[![Bootstrap](/images/icons8-bootstrap-logo.svg) **Auction app**](https://github.com/Spookyrumble/Auction): An Auction site built using Bootstrap and SASS. This project also has Jest Unit testing and E2E testing.
+[![Bootstrap](/images/icons8-bootstrap-logo.svg) **OnlyPineapples app**](https://github.com/Spookyrumble/Auction): An Auction site built using Bootstrap and SASS. This project also has Jest Unit testing and E2E testing.
 [Live Demo](https://hma-sp2-onlypineapples.netlify.app/).
 
-_NB! Requires a login. Use email: invitedguest@noroff.no, Password: auctionhouse_
+_NB! OnlyPineapples requires a login. Use email: invitedguest@noroff.no, Password: auctionhouse_
 
-[![Bootstrap](/images/icons8-bootstrap-logo.svg) **Social Media app**](https://github.com/Spookyrumble/css-frameworks-ca): A Social Media site built using Bootstrap and SASS.
+[![Bootstrap](/images/icons8-bootstrap-logo.svg) **Connotation app**](https://github.com/Spookyrumble/css-frameworks-ca): A Social Media site built using Bootstrap and SASS.
 [Live Demo](https://css-framework-js2.netlify.app/).
 
-_NB! Requires a login. Use email: invitedguest@noroff.no, Password: socialmedia_
+_NB! Connotation requires a login. Use email: invitedguest@noroff.no, Password: socialmedia_
 
-🌐 **Latest School Projects**: Currently exploring React, Vite, and Tailwind CSS. Stay tuned for updates post-exams!
+---
 
 ### Skills & Tools
 
