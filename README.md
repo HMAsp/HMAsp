@@ -10,13 +10,15 @@ Author: HMA
 
 ### About Me
 
-Hello! My name is **Hans**, also known as **Spookyrumble**. At 41, I've embarked on a journey into Front-End Development, reigniting a long-dormant passion for coding. With a diverse background ranging from working on fishing boats to being a service coordinator, I'm now pursuing my dream in the tech world. I'm excited to share my projects and learnings with you!
+Hello! My name is **Hans Marius**, also known as **Spookyrumble** in some places. At 41, I've embarked on a journey into Front-End Development, reigniting a long-dormant passion for coding. With a diverse background ranging from working on fishing boats to being a service coordinator, I'm now pursuing my dream in the tech world. I'm excited to share my projects and learnings with you!
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/50cc9a04-0195-4002-b31f-a368628fa2f1/deploy-status)](https://app.netlify.com/sites/hans-m-andreassen-portfolio/deploys)
 
 [Link to live portfolio](https://hans-m-andreassen-portfolio.netlify.app)
 
 ### What's New
+
+[Haugesund Karateklubb](https://haugesundkarate.no): Homepage for our local Karate Club. This was a free project and a gift to the club that did not have a homepage. Built using Next.js, React and Typescript.
 
 [![React](/images/icons8-react-js.svg) **Havens app**](https://github.com/Spookyrumble/Project-Exam-2): An accommodation website site built using React and Tailwind CSS. This was the final exam project.
 [Live Demo](https://project-havens.netlify.app).
